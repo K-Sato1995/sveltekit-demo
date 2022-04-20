@@ -17,16 +17,16 @@
 </div>
 
 <style>
-    /* Fontの設定 */
+	/* Fontの設定 */
 	:global(body) {
 		font-family: Helvetica, Arial, sans-serif;
 	}
-	
+
 	.header {
 		width: 860px;
 		background-color: #ff6600;
 		display: flex;
-        padding: 5px 0;
+		padding: 5px 0;
 	}
 
 	.header > a {
