@@ -18,4 +18,8 @@
 	<p>{post.body}</p>
 </div>
 
-
+<style>
+	.post {
+		padding: 10px;
+	}
+</style>
