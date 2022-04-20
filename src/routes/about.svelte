@@ -1,1 +1,1 @@
-<h1>About</h1>
+<h1>SvelteKitの基本を学ぼう</h1>
